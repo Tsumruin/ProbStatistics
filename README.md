@@ -3,6 +3,12 @@
   
 ## 各ファイルの説明と参照元
 
+### 2(Twitterの問)
+- `twitter.csv`
+  - `before`列：7月11以前のツイート数
+  - `after`列：7月12以降のツイート数
+
+### 3(オリジナル)
 - `black.csv`： 黒点と平均気温のデータ
   - 国立天文台：<https://solarwww.mtk.nao.ac.jp/jp/db_sunspot.html>
   - 気象庁：<https://www.data.jma.go.jp/cpdinfo/temp/list/an_jpn.html>
